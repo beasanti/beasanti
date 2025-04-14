@@ -12,6 +12,9 @@
 - 🧠 Em constante aprendizado e sempre com uma aba de documentação aberta
 
 ---
+<img src="https://github.com/beasanti/beasanti/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/beasanti/beasanti/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+
 
 ### 🧰 Tecnologias & Ferramentas
 
@@ -36,6 +39,12 @@
 
 ---
 
+### 🐍 Snake GitHub Contribution Animation
+
+<p align="center">
+  <img src="https://github.com/beasanti/beasanti/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 ### 🏴‍☠️ Projeto em Destaque
 
 #### [🔗 WIPiece - Enciclopédia One Piece](https://one-piece-pqt4.vercel.app/)
@@ -50,6 +59,7 @@
 📧 **Email:** beatriizsantina14@gmail.com
 
 ---
+
 
 <p align="center">
   Feito com 💻, ☕ e muita vontade de aprender!
