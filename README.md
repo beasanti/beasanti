@@ -40,6 +40,7 @@
 ---
 
 ### 🐍 Snake GitHub Contribution Animation
+![Snake animation](https://raw.githubusercontent.com/beasanti/{beasanti}/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://github.com/beasanti/beasanti/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
