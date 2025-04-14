@@ -12,9 +12,6 @@
 - 🧠 Em constante aprendizado e sempre com uma aba de documentação aberta
 
 ---
-<img src="https://github.com/beasanti/beasanti/blob/output/github-contribution-grid-snake.svg" />
-<img src="https://github.com/beasanti/beasanti/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
-
 
 ### 🧰 Tecnologias & Ferramentas
 
@@ -40,11 +37,9 @@
 ---
 
 ### 🐍 Snake GitHub Contribution Animation
-![Snake animation](https://raw.githubusercontent.com/beasanti/{beasanti}/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/beasanti/beasanti/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-  <img src="https://github.com/beasanti/beasanti/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+---
 
 ### 🏴‍☠️ Projeto em Destaque
 
@@ -60,7 +55,6 @@
 📧 **Email:** beatriizsantina14@gmail.com
 
 ---
-
 
 <p align="center">
   Feito com 💻, ☕ e muita vontade de aprender!
