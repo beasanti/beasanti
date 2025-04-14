@@ -30,21 +30,10 @@
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beasanti&layout=compact&langs_count=8&theme=radical"/>
 </p>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Beatriz's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=beasanti&theme=react-dark"/>
-</a>
+
 
 ---
 
-### 🐍 Snake GitHub Contribution Animation
-![Snake animation](https://raw.githubusercontent.com/beasanti/beasanti/output/github-contribution-grid-snake.svg)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/beasanti/beasanti/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/beasanti/beasanti/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/beasanti/beasanti/blob/output/github-snake.svg" />
-</picture>
-
----
 
 ### 🏴‍☠️ Projeto em Destaque
 
