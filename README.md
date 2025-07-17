@@ -1,56 +1,54 @@
-<h1 align="center">✨ Hello! I'm Beatriz Santina</h1>
-<p align="center"><i>Fullstack JavaScript Developer & Estudante de ADS na Unicesumar</i></p>
+<h2 align="center">✨ Hello! I'm Beatriz Santina</h2>
 
----
+###
 
-### 🙋‍♀️ Sobre mim
+<h4 align="left">🙋‍♀️ Sobre mim</h4>
 
-- 💼 Estagiária no **Banco BV** atuando com **Java**
-- 🚀 Construindo aplicações com **React**, **Node.js** e **AWS**
-- 👩‍🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 💜 Apaixonada por tecnologia, desafios e projetos com propósito
-- 🧠 Em constante aprendizado e sempre com uma aba de documentação aberta
+###
 
----
+<p align="left">💼 Estagiária no Banco BV atuando com Java<br>🚀 Construindo aplicações com React, Node.js e AWS<br>👩‍🎓 Cursando Análise e Desenvolvimento de Sistemas<br>💜 Apaixonada por tecnologia, desafios e projetos com propósito<br>🧠 Em constante aprendizado e sempre com uma aba de documentação aberta</p>
+
+###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=beasanti.beasanti&"  />
+  <a href="https://www.linkedin.com/in/beatriz-santina-a6972b1a0/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
+  </a>
+  <a href="beatriizsantina14@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="gmail logo"  />
+  </a>
 </div>
 
+###
 
-### 🧰 Tecnologias & Ferramentas
+<h3 align="center">🧰 Tecnologias & Ferramentas</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=fff" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff" />
-</p>
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="24" alt="java logo"  />
+  <img width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" alt="javascript logo"  />
+  <img width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="24" alt="nodejs logo"  />
+  <img width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="24" alt="spring logo"  />
+  <img width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="24" alt="react logo"  />
+  <img width="36" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="24" alt="tailwindcss logo"  />
+  <img width="36" />
+  <img src="https://skillicons.dev/icons?i=ts" height="24" alt="typescript logo"  />
+  <img width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="24" alt="git logo"  />
+</div>
 
----
+###
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beasanti&layout=compact&langs_count=8&theme=radical"/>
-</p>
-
-
----
-
-
-### 🏴‍☠️ Projeto em Destaque
-
-#### [🔗 WIPiece - Enciclopédia One Piece](https://one-piece-pqt4.vercel.app/)
-> Um site tipo Wiki sobre o mundo de One Piece com busca inteligente, integração com API e design amigável.  
-> *React, CSS, API pública, amor de fã 💛*
-
----
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beasanti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=beasanti&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
 
@@ -60,14 +58,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/beasanti/beasanti/output/pacman-contribution-graph.svg">
 </picture>
 
-
-
-### 📫 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-santina-a6972b1a0/)  
-📧 **Email:** beatriizsantina14@gmail.com
-
----
+###
 
 <p align="center">
   Feito com 💻, ☕ e muita vontade de aprender!
