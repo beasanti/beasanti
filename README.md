@@ -5,7 +5,7 @@
 
 ### 🙋‍♀️ Sobre mim
 
-- 💼 Estagiária na **Compass UOL** atuando com **JavaScript Fullstack**
+- 💼 Estagiária no **Banco BV** atuando com **Java**
 - 🚀 Construindo aplicações com **React**, **Node.js** e **AWS**
 - 👩‍🎓 Cursando **Análise e Desenvolvimento de Sistemas**
 - 💜 Apaixonada por tecnologia, desafios e projetos com propósito
